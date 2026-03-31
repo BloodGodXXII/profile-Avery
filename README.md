@@ -2,9 +2,9 @@
 ##  About Me
 I'm a Business and Cybersecurity major. I work at my local mall. I love to read, watch movies and documentaries, and play games. My main hobby however is painting and drawing.
 ## ⚒️ Skills
-_Java_
-_PowerShell_
-_C++_
+Java  
+PowerShell  
+C++  
 ## 🎉 Interests
 Hacking
 Cybersecurity
